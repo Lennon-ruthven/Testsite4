@@ -39,7 +39,7 @@ const Nav: React.FC = () => {
                   width="32px"
                   height="32px"
                 />
-                <h6 className="ml-2 text-xl font-bold">nazha</h6>
+                <h6 className="ml-2 text-xl font-bold">nazh</h6>
               </div>
             </Link>
           </motion.div>
