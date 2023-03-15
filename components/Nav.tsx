@@ -12,7 +12,7 @@ import ThemeSwitch from './ThemeSwitch';
 
 const routes = [
   { route: '/about', title: 'About Me' },
-  { route: '/subscribe', title: 'Newsleter' }
+  { route: '/subscribe', title: 'Newslter' }
 ];
 
 const Nav: React.FC = () => {
